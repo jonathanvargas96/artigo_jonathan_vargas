@@ -2,7 +2,7 @@
 title: "Estimação do Modelo CAPM"
 subtitle: "Working Paper"
 author: Jonathan Vargas Silva
-lang: pt
+lang: pt-BR
 format:
   pdf:
     documentclass: article
