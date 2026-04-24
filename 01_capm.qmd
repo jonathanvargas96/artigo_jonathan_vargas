@@ -1,14 +1,14 @@
 ---
 title: "Estimação do Modelo CAPM"
 subtitle: "Working Paper"
-author: Seu Nome
+author: Jonathan Vargas Silva
 lang: pt
 format:
   pdf:
     documentclass: article
     papersize: a4paper
     fontsize: 12pt
-    linestretch: 1.0
+    linestretch: 1.5
     number-sections: true
     indent: true
     tbl-pos: 'H'
